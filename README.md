@@ -53,5 +53,5 @@ The dataset contains **50,000 reviews** (25k positive, 25k negative).
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/imdb-sentiment-lstm.git
+git clone https://github.com/Deven2111/Sentiment-Analysis-Using-LSTM.git
 cd imdb-sentiment-lstm
